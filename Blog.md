@@ -107,7 +107,7 @@ These upgrades expand the project from a standalone seizure-detection prototype 
   <source src="./Team%20Nobita%20DEMO.mp4" type="video/mp4">
 </video>
 
-[Click here to view or download the demo video](./Team%20Nobita%20DEMO.mp4)
+[Click here to view the demo video](./Team%20Nobita%20DEMO.mp4)
 
 The video demonstrates:
 

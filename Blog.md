@@ -101,16 +101,14 @@ These upgrades expand the project from a standalone seizure-detection prototype 
   <i>ESP32 Health Monitor dashboard showing session records, step count, duration, device status, and acceleration visualization.</i>
 </p>
 
+
 ### Demo Video
 
-<p align="center">
-  <a href="https://github.com/Bhavi-1266/Myosa/raw/refs/heads/main/Team%20Nobita%20DEMO.mp4">
-    <img src="./dashboard.png" width="900" alt="Watch Team Nobita demo video">
-  </a><br/>
-  <i>Click the image to watch or download the Team Nobita demo video.</i>
-</p>
+[![Watch Team Nobita demo video](https://raw.githubusercontent.com/Bhavi-1266/Myosa/main/dashboard.png)](https://raw.githubusercontent.com/Bhavi-1266/Myosa/main/Team%20Nobita%20DEMO.mp4)
 
-[Open the Team Nobita demo video](https://github.com/Bhavi-1266/Myosa/raw/refs/heads/main/Team%20Nobita%20DEMO.mp4)
+*Click the dashboard image above to watch or download the Team Nobita demo video.*
+
+[Open the Team Nobita demo video](https://raw.githubusercontent.com/Bhavi-1266/Myosa/main/Team%20Nobita%20DEMO.mp4)
 
 The video demonstrates:
 
@@ -125,9 +123,7 @@ The video demonstrates:
 
 ### Video Introduction
 
-Our project, developed by **Team Nobita**, is a MYOSA-based Seizure Detection Device designed as a compact wearable system. It uses an ESP32 and MPU6050 sensor to continuously monitor body movement and identify seizure-like motion patterns. The upgraded version also includes fall detection, gait analysis, step counting, and a Firebase-powered web dashboard. When abnormal movement is detected, the device provides immediate buzzer and OLED alerts while sensor data is uploaded for real-time monitoring.
-
----
+Our project, developed by **Team Nobita**, is a MYOSA-based Seizure Detection Device designed as a compact wearable system. It uses an ESP32 and MPU6050 sensor to continuously monitor body movement and identify seizure-like motion patterns. The upgraded version also includes fall detection, gait analysis, step counting, and a Firebase-powered web dashboard.
 
 ## Features
 

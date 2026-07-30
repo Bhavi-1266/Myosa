@@ -104,11 +104,7 @@ These upgrades expand the project from a standalone seizure-detection prototype 
 
 ### Demo Video
 
-[![Watch Team Nobita demo video](https://raw.githubusercontent.com/Bhavi-1266/Myosa/main/dashboard.png)](https://raw.githubusercontent.com/Bhavi-1266/Myosa/main/Team%20Nobita%20DEMO.mp4)
-
-*Click the dashboard image above to watch or download the Team Nobita demo video.*
-
-[Open the Team Nobita demo video](https://raw.githubusercontent.com/Bhavi-1266/Myosa/main/Team%20Nobita%20DEMO.mp4)
+https://github.com/user-attachments/assets/7c189533-2db1-44fd-b5ad-f1c421d71699
 
 The video demonstrates:
 
